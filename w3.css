@@ -255,3 +255,10 @@ div.desc {
   text-align: center;
 }
 
+div.middle {
+font-size: 18px;
+float: center;
+width: 80%;
+text-align: justify;
+}
+
