@@ -1,0 +1,1 @@
+pdfjam --landscape --angle 90 toto.pdf 
