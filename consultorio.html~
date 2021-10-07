@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<title>Arq. Patricio Guerrero (en construcción)</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+
+<body>
+
+  <!-- barra navegacion-->
+
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="index.html" class="w3-bar-item w3-button"><b> </b> PATRICIO GUERRERO SEGOVIA (en construcción)</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="index.html#projects" class="w3-bar-item w3-button">Proyectos</a>
+      <!-- <a href="#about" class="w3-bar-item w3-button">Blog</a>
+      <a href="#contact" class="w3-bar-item w3-button">(Otra)</a> -->
+      <a href="#contact" class="w3-bar-item w3-button">Biografía</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img class="w3-image" src="ttt.jpg" alt="Architecture" width="1500" height="800">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b> </b></span> <span class="w3-hide-small w3-text-light-grey">Architects</span></h1>
+  </div>
+</header> 
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+<!-- Project Section -->
+<div class="w3-container w3-padding-32" id="cumbaya">
+  <h2 class="w3-wide w3-border-bottom w3-border-light-grey w3-padding-0b">EDIFICIO GIA2</h2>
+  <!--
+  <a href="cumbaya.html#plantas" class="w3-bar-item w3-button">PLANTAS</a>
+  &nbsp
+  <a href="cumbaya.html#renders" class="w3-bar-item w3-button">RENDER</a>
+  &nbsp
+  <a href="cumbaya.html#imgs" class="w3-bar-item w3-button">FOTOS</a>
+  &nbsp
+  <a href="cumbaya.html#memoria" class="w3-bar-item w3-button">MEMORIA</a>
+  -->
+</div>
+<!-- renders -->
+<div class="w3-container w3-padding-16" id="plantas">
+  <h4 class="w3-wide w3-border-bottom w3-border-light-grey w3-padding-0t">PLANTAS</h4>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/gia_pl1.pdf">
+    <img src="images/gia_pl1.jpg" alt="">
+  </a>
+</div>
+<div class="gallery">
+  <a target="_blank" href="images/gia_pl2.pdf">
+    <img src="images/gia_pl2.jpg" alt="">
+  </a>
+</div>
+
+
+<!-- renders 
+<div class="w3-container w3-padding-32" id="renders">
+  <h4 class="w3-wide w3-border-bottom w3-border-light-grey w3-padding-16">RENDER</h4>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/cum9.jpg">
+    <img src="images/cum9c.jpg" alt="">
+  </a>
+</div>
+-->
+
+<!-- fotos -->
+<div class="w3-container w3-padding-16" id="imgs">
+  <h4 class="w3-wide w3-border-bottom w3-border-light-grey w3-padding-16">FOTOS</h4>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/gia0.jpg">
+    <img src="images/gia0c.jpg" alt="">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/gia1.jpg">
+    <img src="images/gia1c.jpg" alt="">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/gia2.jpg">
+    <img src="images/gia2c.jpg" alt="">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/gia3.jpg">
+    <img src="images/gia3c.jpg" alt="">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/gia4.jpg">
+    <img src="images/gia4c.jpg" alt="">
+  </a>
+</div>
+
+
+<!-- memoria -->
+
+<div class="w3-container w3-padding-16" id="memoria">
+  <h4 class="w3-wide w3-border-bottom w3-border-light-grey w3-padding-16">MEMORIA</h4>
+</div>
+
+<div class="middle">
+
+Rotunda forma prismática que renuncia a todo recurso de carácter ornamental, más que
+su propia composición y color, tal como Adolf Loos lo pensara.
+<p>
+Tiene apariencia simétrica aunque el interior está resuelto con cierta libertad debido a dos
+consideraciones básicas: la fachada este, más representativa con el propósito de
+dignificar el espacio público al que se enfrenta y, el diseño de una estructura
+rigurosamente ordenada que facilita las mejores condiciones de flexibilidad y seguridad.
+</p>
+
+<p>
+El uso del mínimo número de elementos formales y constructivos distintos, responde a la
+búsqueda permanente de una “ética” arquitectónica, donde la luz, la máxima economía de
+medios y ciertas intenciones de carácter estético, han sido las principales motivaciones
+para el diseño de este “silencioso” edificio.
+</p>
+    
+<p>
+Arquitecto: Patricio Guerrero Segovia <br>
+Área de proyecto: 1200 m2  <br>
+Año de proyecto: 1996  <br>
+Ubicación: Quito  <br>
+</p> 
+</body>
+</html>
