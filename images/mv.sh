@@ -1,8 +1,8 @@
 #!/bin/bash
 
-for I in $(seq 16 22); do
+for I in $(seq 1 9); do
     echo "$(($I))"
     # pdfjam --landscape --angle 90 "$(($I))".pdf 
-    mv "cli$(($I))c (copy).pdf" "cli$(($I)).pdf"
+    mv "ism$(($I)) (copy).jpg" "ism$(($I))c.jpg"
 done
 
