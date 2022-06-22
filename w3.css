@@ -235,7 +235,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
 div.gallery {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 0px solid #ccc;
   float: left;
   max-width: 100%;
   /*width: 400px;
@@ -243,7 +243,7 @@ div.gallery {
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 0px solid #777;
 }
 
 div.gallery img {
@@ -254,6 +254,7 @@ div.gallery img {
 div.desc {
   padding: 10px;
   text-align: center;
+  font-family:Consolas,"courier new";
 }
 
 div.middle {
