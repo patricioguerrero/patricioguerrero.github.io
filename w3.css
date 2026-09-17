@@ -258,9 +258,12 @@ div.desc {
 }
 
 div.middle {
-font-size: 18px;
-float: center;
-width: 90%;
-text-align: justify;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 820px;
+  padding: 0 16px;
+  margin-bottom: 56px;
+  font-size: 17px;
+  line-height: 1.65;
+  text-align: left;
 }
-
