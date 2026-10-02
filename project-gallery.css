@@ -21,7 +21,7 @@
 
 /* Compact project pages; lightbox rules above do not control thumbnails. */
 .project-page .project-title{padding-top:8px!important;padding-bottom:24px!important}
-.project-page .project-title h2{padding-top:0!important;font-size:26px;line-height:1.35;text-align:left}
+.project-page .project-title h2{padding-top:0!important;line-height:1.35;text-align:left}
 .project-page div.gallery{float:left;position:relative;left:11px;width:400px;max-width:calc(100% - 21px);margin:5px;border:0}
 .project-page div.gallery img{width:100%;height:auto;border-radius:0}
-@media(max-width:600px){.project-page .project-title h2{font-size:22px}.project-page .project-title{padding-top:8px!important;padding-bottom:20px!important}}
+@media(max-width:600px){.project-page .project-title{padding-top:8px!important;padding-bottom:20px!important}}
